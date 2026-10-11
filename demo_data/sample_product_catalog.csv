@@ -1,0 +1,7 @@
+SKU,Name,Length (mm),Width (mm),Height (mm),Weight (kg),Barcode,Fragile (TRUE/FALSE),Stackable (TRUE/FALSE),Max Stack Weight (kg),Allowed Rotations (XYZ/XY/Z),Category
+LAP_15,Gaming Laptop 15-inch,360.0,250.0,25.0,2.2,890123456001,TRUE,TRUE,30.0,XY,Computers
+HDST_BT,Wireless ANC Headset,200.0,180.0,90.0,0.35,890123456002,FALSE,TRUE,50.0,XYZ,Audio
+TAB_10,10-inch Tablet Pro,245.0,175.0,15.0,0.48,890123456003,TRUE,TRUE,40.0,XYZ,Electronics
+PRN_LSR,Desktop Laser Printer,410.0,370.0,280.0,8.5,890123456004,TRUE,FALSE,0.0,Z,Office
+SPK_BT,Portable Bluetooth Speaker,180.0,70.0,70.0,0.6,890123456005,FALSE,TRUE,60.0,XYZ,Audio
+CAM_4K,4K Action Camera Kit,120.0,100.0,80.0,0.4,890123456006,TRUE,TRUE,30.0,XYZ,Electronics
